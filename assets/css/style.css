@@ -1,0 +1,8 @@
+#form {
+    display: none; /* Nascondi il form all'inizio */
+}
+
+.num {
+    font-size: 24px;
+    margin: 10px;
+}
